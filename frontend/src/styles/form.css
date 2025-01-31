@@ -1,0 +1,31 @@
+.user-form {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 2rem;
+
+}
+
+.user-form input, .user-form button {
+    margin-bottom: 10px;
+
+}
+
+.user-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+.user-form button {
+    display: block;
+    width: 100%;
+}

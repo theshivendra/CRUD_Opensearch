@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h2, h3 {
+    color: #444;
+}
+
+h1 {
+    font-size: 60px; /* Adjust the size if needed */
+    font-weight: bold;
+    text-align: center; /* Centers text horizontally */
+    position: absolute;
+    top: 50%; /* Pushes the text to the middle of the page */
+    left: 50%; /* Pushes the text to the middle of the page */
+    transform: translate(-50%, -50%); /* Centers the text by adjusting its position */
+    color: #333; /* Text color */
+}
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 20px;
+    background-color: #48BF91;
+    color: white;
+    margin-right: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
