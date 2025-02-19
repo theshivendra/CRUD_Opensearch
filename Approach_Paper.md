@@ -59,7 +59,7 @@ The full-stack application follows a microservices-based architecture, with the 
 
 #### 3.3.1 Hardware Requirements  
 - **Development Environment:** Any modern system capable of running Java and React.  
-- **Deployment Environment:** Minimum server resources (2 CPU cores, 2 GB RAM recommended).  
+- **Deployment Environment:** Minimum server resources (2 CPU cores, 4 GB RAM recommended).  
 
 #### 3.3.2 Software Requirements  
 - **Operating System:** Linux (Ubuntu recommended).  
