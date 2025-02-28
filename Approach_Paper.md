@@ -17,7 +17,8 @@ This approach leverages React + Vite for the frontend and Quarkus for the backen
 ## 3. Approach Details  
 
 ### 3.1 Architecture Diagram  
-*Architecture Diagram will be inserted here*  
+![CRUD Application Flow](https://github.com/theshivendra/CRUD_Opensearch/raw/main/CRUD%2BKeyCloak%20Flow%20Chart.png)
+
 
 ### 3.2 Description  
 The full-stack application follows a microservices-based architecture, with the following key components:  
